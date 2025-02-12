@@ -32,7 +32,7 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{JINX-XMD}/count.svg" alt="Tennor-modz :: Visitor's Count" old_src="https://profile-counter.glitch.me/{caseyweb}/count.svg" /></p>
 
 
-  <p align="center"> Meet JINX XMD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. bellah_xmd whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet JINX XMD, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. JINX-XMD whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
   <a href="https://github.com/caseyweb/JINX-XMD/fork"><img title="JINX-XMD" src="https://img.shields.io/badge/FORK-JINX XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
@@ -57,7 +57,7 @@
 
 **2. If You Have a Heroku Account**
     <br>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTennor-modz%2FBellah-Xmd%3Ftab%3Dreadme-ov-file"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fcaseyweb%2FJINX-XMD%3Ftab%3Dreadme-ov-file"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ***
@@ -136,23 +136,43 @@
 `if you want to change bot settings on panels kindly change them on settings.js carefully`
 
 
-- Star ⭐ repo if you like this bot.
+
+
+## CONTACT CASEYRHODES TECH
+  
+<a href="https://wa.me/254112192119"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/caseyweb/NHEZHO-MD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="CASEYRHODES "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+</p>
+
+
+   
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
 
 
 
-#### Thanks To
+<p align="center">
+    <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH">
+        <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</p>
 
-<details close>
-<summary>Read More</summary>
+## CASEYRHODES SUPPORT 
 
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=CASEYRHODES XMD +MAKE; STAR ⭐+AND+FORKS+BY+CASEYRHODES XMD" alt="Typing SVG" /></a>
 
-* [`Tylor`](https://github.com/Dark-Xploit) for the un ending support to make this repo alive
-* [`DGXeon`](https://github.com/DGXeon) the founder of the bot base
-* [`GiddyTennor`](https://github.com/Dark-Xploit) the developer of Bellah Xmd 
 
- </details>
+
+## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
+
+
+ <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ 
+
+
+
 
 
