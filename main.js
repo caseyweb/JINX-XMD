@@ -62,7 +62,7 @@ require('./main.js')
 nocache('../main.js', module => console.log(color('[ CHANGE ]', 'green'), color(`'${module}'`, 'green'), 'Updated'))
 
 //------------------------------------------------------
-let phoneNumber = "254104245659"
+let phoneNumber = "254112192119"
 let owner = JSON.parse(fs.readFileSync('./src/data/role/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -84,7 +84,7 @@ async function downloadSessionData() {
       return console.log(color(`Session id not found at SESSION_ID!\nCreds.json not found at session folder!\n\nWait to enter your number`, 'red'));
       }
 
-      const sessdata = global.SESSION_ID.split("Bellah~")[1];
+      const sessdata = global.SESSION_ID.split("CASEYRHODES~")[1];
       const filer = File.fromURL(`https://mega.nz/file/${sessdata}`);
 
       await new Promise((resolve, reject) => {
@@ -209,7 +209,7 @@ try{
 
  Holla, 😴,Connected`})
        const CFonts = require('cfonts');
-CFonts.say('CASEY XMD', {
+CFonts.say('CASEYRHODES XMD', {
   font: 'tiny',              // Jenis font
   align: 'left',            // Posisi teks (left, center, right)
   colors: ['blue', 'white'],    // Warna teks
