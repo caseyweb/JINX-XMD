@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://github.com/caseyweb"><img title="Author" src="https://i.imgur.com/Q3XajKe.jpeg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/caseyweb"><img title="Author" src="https://files.catbox.moe/1hdw5t.jpg?style=for-the-badge&logo=github"></a>
 
 
   <p align="center">
@@ -21,7 +21,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our chat group for updates" href="https://chat.whatsapp.com/IGc9Xl3Ta5C8LNnV0rUK9s" target="_blank">
+  <a aria-label="Join our chat group for updates" href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
  
