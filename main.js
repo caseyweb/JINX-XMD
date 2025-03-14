@@ -84,7 +84,7 @@ async function downloadSessionData() {
       return console.log(color(`Session id not found at SESSION_ID!\nCreds.json not found at session folder!\n\nWait to enter your number`, 'red'));
       }
 
-      const sessdata = global.SESSION_ID.split("CASEYRHODES~")[1];
+      const sessdata = global.SESSION_ID.split("Caseyrhodes~")[1];
       const filer = File.fromURL(`https://mega.nz/file/${sessdata}`);
 
       await new Promise((resolve, reject) => {
